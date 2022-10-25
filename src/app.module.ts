@@ -4,8 +4,8 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 @Module({
-	imports: [],
-	controllers: [AppController, ProductsController],
-	providers: [AppService],
+  imports: [],
+  controllers: [AppController, ProductsController],
+  providers: [AppService],
 })
-export class AppModule { }
+export class AppModule {}

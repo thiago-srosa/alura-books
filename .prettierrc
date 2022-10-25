@@ -1,4 +1,14 @@
 {
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "useTabs": false,
   "singleQuote": true,
-  "trailingComma": "all"
+  "printWidth": 80,
+  "editor.formatOnSave": true,
+  "proseWrap": "always",
+  "requireConfig": false,
+  "jsxBracketSameLine": false,
+  "semi": true,
+  "endOfLine": "lf",
+  "bracketSpacing": true
 }
